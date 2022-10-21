@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on data analysis and statistics
 - 🌱 I’m currently learning about machine learning
 - 🍓 Pronouns: she/her
-- 📫 How to reach me: [email](mailto: rodriguezb@cy-tech.fr)
+- 📫 How to reach me: (mailto: rodriguezb@cy-tech.fr)
 
 
